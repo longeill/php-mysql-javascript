@@ -1,1 +1,1 @@
-console.log("This is the JavaScript program!");
+alert("This is the JavaScript program!");
